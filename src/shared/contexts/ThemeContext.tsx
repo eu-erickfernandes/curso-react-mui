@@ -41,5 +41,4 @@ export const AppThemeProvider: React.FC<IThemeProviverProps> = ({ children }) =>
             </ThemeProvider>
         </ThemeContext.Provider>
     )
-
 }
